@@ -1,0 +1,54 @@
+
+
+
+#main_title {
+	font-size: 46px;
+	margin-bottom: 50px;
+	font-weight: 900;	
+}
+
+
+body {
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;	
+}
+
+#body, #header {
+	max-width: 90%;
+	background: #042da8;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+}
+
+#body {
+	color: #fff;
+	height: 500px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+
+
+#joke_text {
+	font-size: 30px;
+	height: 200px;
+}
+
+.icons {
+	font-size: 60px;
+	cursor: pointer;
+	margin-right: 15px;
+}
+
+a {
+	color: #fff;
+}
+
+a:hover {
+	color: #fff;
+}
+
+
+
+
